@@ -1,4 +1,4 @@
-## GDB
+## GDB(Gnu DeBuger)
 
 https://www.gnu.org/software/gdb/
 
